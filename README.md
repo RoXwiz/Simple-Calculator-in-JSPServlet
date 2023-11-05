@@ -61,15 +61,3 @@ To create a web-based calculator that allows users to perform basic mathematical
 8. Deploy the web application to a web server (e.g., Apache Tomcat).
 
 9. Share the URL of the calculator with users.
-
-## Project Enhancements (Optional)
-
-1. Add support for more advanced operations like square root, exponentiation, and trigonometric functions.
-
-2. Implement history or memory functions to store previous calculations.
-
-3. Add a clear button to reset the calculator.
-
-4. Improve the user interface by adding more styling and responsiveness.
-
-By completing this project, you will gain hands-on experience with JSP and Servlets and have a functional web-based calculator that you can use and showcase to others.
